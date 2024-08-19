@@ -14,14 +14,13 @@
     <img src="https://img.shields.io/badge/-Docker-blue" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-Git-orange" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-GitHub-black" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-blueviolet" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-Maven-red" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-Gradle-green" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-Jenkins-blue" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-JUnit-green" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-Apache%20Tomcat-orange" style="margin: 5px;"/>
 </div>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vzer200.myrepo&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vzer200&left_color=green&right_color=red)
 
 
 
