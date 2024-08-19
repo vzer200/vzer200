@@ -15,19 +15,20 @@
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya.pal23/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
 #### 👨🏻‍💻 Languages and Tools <br />
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/rocketmq.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca5e98a6a443a709c8b6e64abf07b1618/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca5e98a6a443a709c8b6e64abf07b1618/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca5e98a6a443a709c8b6e64abf07b1618/topics/git/git.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca5e98a6a443a709c8b6e64abf07b1618/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca5e98a6a443a709c8b6e64abf07b1618/topics/linux/linux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca5e98a6a443a709c8b6e64abf07b1618/topics/maven/maven.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca5e98a6a443a709c8b6e64abf07b1618/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca5e98a6a443a709c8b6e64abf07b1618/topics/postgresql/postgresql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca5e98a6a443a709c8b6e64abf07b1618/topics/tensorflow/tensorflow.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca5e98a6a443a709c8b6e64abf07b1618/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca5e98a6a443a709c8b6e64abf07b1618/topics/redis/redis.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca5e98a6a443a709c8b6e64abf07b1618/topics/rocketmq/rocketmq.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/37c71fdca5e98a6a443a709c8b6e64abf07b1618/topics/intellij-idea/intellij-idea.png"></code>
+
 
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
