@@ -23,11 +23,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vzer200&theme=highcontrast&hide_border=true&background=000000&ring=FF6347&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6347&sideLabels=FF6347)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vzer200/vzer200/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vzer200/vzer200/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vzer200/vzer200/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 <!--
