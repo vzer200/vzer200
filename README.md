@@ -1,8 +1,9 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=highcontrast&bg_color=45,283c86,45a247&title_color=ffffff&text_color=dcdcdc&icon_color=ffd700)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=45,0f2027,203a43,2c5364&title_color=ffffff&text_color=dcdcdc&icon_color=ffd700&border_radius=10)
 
-<div style="display: flex; flex-wrap: wrap;">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=highcontrast&bg_color=45,283c86,45a247&title_color=ffffff&text_color=dcdcdc&icon_color=ffd700)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vzer200&layout=compact&bg_color=45,0f2027,203a43,2c5364&title_color=ffffff&text_color=dcdcdc&icon_color=ffd700&border_radius=10)
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/-Java-blue" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-Spring-green" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen" style="margin: 5px;"/>
@@ -25,6 +26,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+---
 
 <!--
 **vzer200/vzer200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,5 +41,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
+
