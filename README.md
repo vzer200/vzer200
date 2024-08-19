@@ -4,6 +4,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vzer200&layout=compact&bg_color=45,0f2027,203a43,2c5364&title_color=ffffff&text_color=dcdcdc&icon_color=ffd700&border_radius=10)
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
+
 <div align="center">
     <img src="https://img.shields.io/badge/-Java-blue" style="margin: 5px;"/>
     <img src="https://img.shields.io/badge/-Spring-green" style="margin: 5px;"/>
