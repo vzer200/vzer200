@@ -8,6 +8,7 @@
   - 🌱I’m currently learning about dynamic thread pool concepts in Java.
   - 💬 I enjoy exploring and researching interesting ideas and concepts.
   - 😄 Pronouns: He / Him
+  - ⚡ Fun fact: I believe debugging is like being a detective in a crime movie where you're also the murderer.
   
 #### 👨🏻‍💻 Languages and Tools <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
