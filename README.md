@@ -23,6 +23,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vzer200&theme=highcontrast&hide_border=true&background=000000&ring=FF6347&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6347&sideLabels=FF6347)
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 <!--
