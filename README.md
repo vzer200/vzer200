@@ -1,8 +1,9 @@
- ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
-  
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+ ### Hello World!  <img src="https://github.com/vzer200/vzer200/blob/master/assets/Hi.gif" width="29px">
+![](https://komarev.com/ghpvc/?username=vzer200&label=Profile%20Visits&color=blue&style=for-the-badge)
+
+<img src="https://github.com/vzer200/vzer200/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<a href="https://ko-fi.com/vzer200"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+
   
   - 🔭 I’m currently an open-source enthusiast and a passionate programmer.
   - 🌱I’m currently learning about dynamic thread pool concepts in Java.
