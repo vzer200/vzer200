@@ -21,8 +21,7 @@
     <img src="https://img.shields.io/badge/-Apache%20Tomcat-orange" style="margin: 5px;"/>
 </div>
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vzer200.vzer200&left_color=green&right_color=red)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vzer200)
 
 
 
