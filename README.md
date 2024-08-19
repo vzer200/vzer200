@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vzer200)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=cobalt&bg_color=30,e96443,904e95&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a)
 
 <!--
 **vzer200/vzer200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
