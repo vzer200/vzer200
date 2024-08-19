@@ -7,7 +7,6 @@
   - 🔭 I’m currently an open-source enthusiast and a passionate programmer.
   - 🌱I’m currently learning about dynamic thread pool concepts in Java.
   - 💬 I enjoy exploring and researching interesting ideas and concepts.
-  - 😄 Pronouns: He / Him
   - ⚡ Fun fact: I believe debugging is like being a detective in a crime movie where you're also the murderer.
   
 #### 👨🏻‍💻 Languages and Tools <br />
