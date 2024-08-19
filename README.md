@@ -22,7 +22,7 @@
 </div>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vzer200&theme=highcontrast&hide_border=true&background=000000&ring=FF6347&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6347&sideLabels=FF6347)
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=2000&pause=1000&color=00CED1&background=000000&width=435&lines=Always+Learning;Exploring+Ideas)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+Learning;Exploring+Interesting+Ideas&color=36BCF7&center=true&vCenter=true&size=22)
 
 
 <!--
