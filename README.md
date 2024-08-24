@@ -23,8 +23,9 @@
 
 <div style="display: flex; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=tokyonight&line_height=27" style="max-height: 165px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzer200&theme=radical" style="max-height: 165px; margin-left: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzer200&theme=radical&hide=scss" style="max-height: 165px; margin-left: 20px;">
 </div>
+
 
 
   
