@@ -1,5 +1,7 @@
- ### Hello World!  <img src="https://github.com/vzer200/vzer200/blob/master/assets/Hi.gif" width="29px">
-![](https://komarev.com/ghpvc/?username=vzer200&label=Profile%20Visits&color=blue&style=for-the-badge) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="74"></h2>
+### Hello World! <img src="https://github.com/vzer200/vzer200/blob/master/assets/Hi.gif" width="29px">
+
+![](https://komarev.com/ghpvc/?username=vzer200&label=Profile%20Visits&color=blue&style=for-the-badge) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="74">
+
   
   - 🔭 I’m currently an open-source enthusiast and a passionate programmer.
   - 🌱I’m currently learning about dynamic thread pool concepts in Java.
