@@ -23,6 +23,6 @@
 
 
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Harttle's Top langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harttle&layout=compact&langs_count=8&include_all_commits=true&role=OWNER&theme=transparent" height="150px">
+  [![Stats](https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![My Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=vzer200&layout=compact&langs_count=8&include_all_commits=true&role=OWNER&theme=transparent)
 
   
