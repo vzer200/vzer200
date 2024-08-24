@@ -1,13 +1,13 @@
  ### Hello World!  <img src="https://github.com/vzer200/vzer200/blob/master/assets/Hi.gif" width="29px">
 ![](https://komarev.com/ghpvc/?username=vzer200&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-<img alt="Harttle's Top langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harttle&layout=compact&langs_count=8&include_all_commits=true&role=OWNER&theme=transparent" height="140px">
   
   - 🔭 I’m currently an open-source enthusiast and a passionate programmer.
   - 🌱I’m currently learning about dynamic thread pool concepts in Java.
   - 💬 I enjoy exploring and researching interesting ideas and concepts.
   - ⚡ Fun fact: I believe debugging is like being a detective in a crime movie where you're also the murderer.
-  
+  <img alt="Harttle's Top langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harttle&layout=compact&langs_count=8&include_all_commits=true&role=OWNER&theme=transparent" height="100px">
+
 #### 👨🏻‍💻 Languages and Tools <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
