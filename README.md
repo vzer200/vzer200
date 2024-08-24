@@ -1,9 +1,7 @@
  ### Hello World!  <img src="https://github.com/vzer200/vzer200/blob/master/assets/Hi.gif" width="29px">
 ![](https://komarev.com/ghpvc/?username=vzer200&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-<img alt="Harttle's Top langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harttle&layout=compact&langs_count=8&include_all_commits=true&role=OWNER&theme=transparent" height="185px">
+<img alt="Harttle's Top langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harttle&layout=compact&langs_count=8&include_all_commits=true&role=OWNER&theme=transparent" height="140px">
   
   - 🔭 I’m currently an open-source enthusiast and a passionate programmer.
   - 🌱I’m currently learning about dynamic thread pool concepts in Java.
