@@ -1,9 +1,7 @@
 #  🙋 Hello
 
 <table>
-  
-<tr><td>
-  
+    
 ![](https://komarev.com/ghpvc/?username=vzer200&label=Profile%20Visits&color=blue&style=for-the-badge) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="74">
 
   
