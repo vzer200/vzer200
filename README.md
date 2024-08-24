@@ -21,7 +21,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vzer200&theme=radical">
+</p>
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vzer200)
   
