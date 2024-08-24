@@ -6,8 +6,7 @@
   - 🌱I’m currently learning about dynamic thread pool concepts in Java.
   - 💬 I enjoy exploring and researching interesting ideas and concepts.
   - ⚡ Fun fact: I believe debugging is like being a detective in a crime movie where you're also the murderer.
-  <img alt="Harttle's Top langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harttle&layout=compact&langs_count=8&include_all_commits=true&role=OWNER&theme=transparent" height="100px">
-
+  
 #### 👨🏻‍💻 Languages and Tools <br />
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
@@ -24,5 +23,6 @@
 
 
   
-  [![Stats](https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+  [![Stats](https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img alt="Harttle's Top langs" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harttle&layout=compact&langs_count=8&include_all_commits=true&role=OWNER&theme=transparent" height="150px">
+
   
