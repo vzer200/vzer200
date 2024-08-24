@@ -30,6 +30,6 @@
 </div>
 
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/vzer200/vzer200/assets/github-contribution-grid-snake.svg" /></div>
+![](https://raw.githubusercontent.com/vzer200/vzer200/main/assets/github-contribution-grid-snake.svg)
 
   
