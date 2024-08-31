@@ -28,9 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzer200&theme=radical&langs_count=4&hide_border=true" style="max-height: 165px; margin-left: 20px;">
 </div>
 
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vzer200/vzer200/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vzer200/vzer200/output/github-contribution-grid-snake.svg">
