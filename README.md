@@ -23,10 +23,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vzer200&show_icons=true&theme=radical&hide_border=true" style="max-height: 165px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzer200&theme=radical&langs_count=4&hide_border=true" style="max-height: 165px; margin-left: 20px;">
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vzer200/vzer200/output/github-contribution-grid-snake-dark.svg">
