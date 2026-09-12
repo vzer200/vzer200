@@ -1,23 +1,7 @@
 #  🙋 Hello Everyone
 
-## Open-source contributions
-
-Selected fixes merged into upstream projects.
-
-[![Prettier: merged PR 20001](https://img.shields.io/badge/Prettier-PR%20%2320001%20merged-8250df?style=flat-square)](https://github.com/prettier/prettier/pull/20001)
-[![NLTK: merged PR 3872](https://img.shields.io/badge/NLTK-PR%20%233872%20merged-8250df?style=flat-square)](https://github.com/nltk/nltk/pull/3872)
-[![zerolog: merged PR 798](https://img.shields.io/badge/zerolog-PR%20%23798%20merged-8250df?style=flat-square)](https://github.com/rs/zerolog/pull/798)
-[![msgspec: merged PR 1173](https://img.shields.io/badge/msgspec-PR%20%231173%20merged-8250df?style=flat-square)](https://github.com/msgspec/msgspec/pull/1173)
-
-| Project | Merged contribution | Pull request |
-| --- | --- | --- |
-| [Prettier](https://github.com/prettier/prettier) | Prevent repeated blank-line growth in unformatted Angular/Vue interpolations. | [#20001](https://github.com/prettier/prettier/pull/20001) |
-| [NLTK](https://github.com/nltk/nltk) | Isolate the default relations dictionary between `Reference` instances. | [#3872](https://github.com/nltk/nltk/pull/3872) |
-| [zerolog](https://github.com/rs/zerolog) | Fix Windows compilation of the journald package. | [#798](https://github.com/rs/zerolog/pull/798) |
-| [msgspec](https://github.com/msgspec/msgspec) | Correct type stubs for `Struct` defaults. | [#1173](https://github.com/msgspec/msgspec/pull/1173) |
-
----
-
+<table>
+    
 ![](https://komarev.com/ghpvc/?username=vzer200&label=Profile%20Visits&color=blue&style=for-the-badge) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="74">
 
   - 🔭 I’m currently an open-source enthusiast and a passionate programmer.
